@@ -2,7 +2,7 @@
 //     try{
 //         let ser = await fetch(`https://masai-mock-api.herokuapp.com/news?q=${value}`)
 
-//         let data =ser.json();
+
 
 //         return data;
 //     }catch (err){
